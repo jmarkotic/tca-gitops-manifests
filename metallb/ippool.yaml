@@ -1,0 +1,9 @@
+apiVersion: metallb.io/v1beta1
+kind: IPAddressPool
+metadata:
+  name: pool1
+  namespace: metallb-system
+spec:
+  addresses:
+  - 172.16.10.20-172.16.10.39
+
