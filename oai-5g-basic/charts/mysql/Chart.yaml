@@ -1,0 +1,14 @@
+apiVersion: v2
+appVersion: 8.0.31
+description: mysql chart used for oai5g core
+home: https://www.mysql.com/
+icon: https://www.mysql.com/common/logos/logo-mysql-170x115.png
+keywords:
+- mysql
+- database
+- sql
+name: mysql
+sources:
+- https://github.com/kubernetes/charts
+- https://github.com/docker-library/mysql
+version: 8.0.31

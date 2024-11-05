@@ -1,0 +1,17 @@
+apiVersion: v2
+appVersion: v2.0.0
+description: Helm chart for UDM network function
+icon: http://www.openairinterface.org/wp-content/uploads/2015/06/cropped-oai_final_logo.png
+keywords:
+- 5GCN
+- UDM
+maintainers:
+- email: contact@openairinterface.org
+  name: OPENAIRINTERFACE
+name: oai-udm
+sources:
+- https://gitlab.eurecom.fr/oai/cn5g/oai-cn5g-udm
+- https://gitlab.eurecom.fr/oai/cn5g/oai-cn5g-fed
+- https://openairinterface.org/
+type: application
+version: v2.0.0
