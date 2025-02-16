@@ -1,3 +1,4 @@
+# main comment added
 global:
   nfConfigurationConfigMap: oai-5g-basic
   clusterIpServiceIpAllocation: true #this will allocate ip-address to cluster Ip service
